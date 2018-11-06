@@ -6,6 +6,10 @@
 ### Core mechanics:
 Surface made up of many small pins. The player can draw them up and freeze them into position to create interesting landscapes and sculptures.
 
+* Surface grid of pins that can move individually (hexagonal?)
+* Ability to raise areas of the pins (simulate magnetic force to create a spread of pin heights - see reference images)
+* Ability to freeze the pins in position (maybe this is the default)
+* Ability to release pins (maybe all of them for simplicity) to reset the surface
 
 
 
