@@ -1,9 +1,6 @@
 # COMP210_2_AR VR Task
 
-## 210 VR Proposal
-
-
-### Pin-art terrain sculptor
+## Pin-art Terrain Sculptor
 
 
 ### Core mechanics:
