@@ -4,14 +4,20 @@
 
 
 ### Core mechanics:
-Surface made up of many small pins. The player can draw them up and freeze them into position to create interesting landscapes and sculptures.
+The concept for this project is inspired by the Pinscreen toy (a metal grid of pins that can be pushed out to create images). The player will be able to sculpt a surface of pins into interesting shapes by raising and lower areas of the surface with hands, simulating magnetism. A key feature of the project will be creating a natural looking distribution of pin heights when an area is raised or lowered, to create a more natural looking effect.
 
-* Surface grid of pins that can move individually (hexagonal?)
-* Ability to raise areas of the pins (simulate magnetic force to create a spread of pin heights - see reference images)
-* Ability to freeze the pins in position (maybe this is the default)
-* Ability to release pins (maybe all of them for simplicity) to reset the surface
+* Surface grid of pins that can move individually. (hexagonal?)
+* Ability to raise areas of the pins. (simulate magnetic force to create a spread of pin heights - see reference images)
+* Ability to lowr areas of the pins.
+* Ability to freeze the pins in position. (maybe this is the default)
+* Ability to reset the surface
 
 
+### Game Potential
+
+This mechanic could be integrated into a turn based strategy game as a terrain-altering mechanic. The player would be able to raise or lower a number of pins on the terrain grid, which could block or free unit movement across the board.
+
+### VR Platform
 
 
 
