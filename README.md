@@ -13,19 +13,30 @@ The concept for this project is inspired by the Pinscreen toy (a metal grid of p
 * Ability to reset the surface
 
 
+### VR Platform
+
+### Controller
+Although a basic version of the project could simply use the Vive controllers in place of the user's hands, implementing hand tracking user the Leapmotion device would add an extra level of immersion by allowing the player to interact more naturally with the game. Handtracking would also allow for more nuance in the mechanics of the game, as the player could raise small areas with a pinch or large areas with a flattened palm.
+
+
 ### Game Potential
 
 This mechanic could be integrated into a turn based strategy game as a terrain-altering mechanic. The player would be able to raise or lower a number of pins on the terrain grid, which could block or free unit movement across the board.
 
-### VR Platform
+
 
 
 
 ### Interesting Links:
 http://hatchstudios.com/work/pin-art/
 
+### Leap Motion:
+https://forums.leapmotion.com/t/unofficial-vr-mount-thread/2296
+https://www.leapmotion.com/technology/
 
 ### Reference Images:
 https://www.menkind.co.uk/media/catalog/product/cache/49dcd5d85f0fa4d590e132d0368d8132/p/i/pin-art-hi-res-2.jpg
 https://image.shutterstock.com/image-photo/pin-scape-260nw-331754117.jpg
 http://hatchstudios.com/wp-content/uploads/pin_art_image01-1024x576.jpg
+
+
